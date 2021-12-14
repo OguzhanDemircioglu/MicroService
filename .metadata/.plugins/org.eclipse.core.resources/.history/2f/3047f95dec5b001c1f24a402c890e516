@@ -1,0 +1,5 @@
+package com.rentacar.api.user.entities;
+
+public class ApplicationUser {
+
+}

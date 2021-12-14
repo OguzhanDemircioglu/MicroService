@@ -1,0 +1,5 @@
+package com.rentacar.api.user.business.concretes;
+
+public class ApplicationUserManager {
+
+}

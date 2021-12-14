@@ -1,0 +1,9 @@
+package com.rentacar.api.user.DataAccess;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.rentacar.api.user.entities.ApplicationUser;
+
+public interface ApplicationUserDao extends JpaRepository<ApplicationUser, String> {
+
+}

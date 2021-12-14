@@ -1,0 +1,5 @@
+package com.rentacar.api.user.business.requests.applicationUser;
+
+public class CreateLoginRequest {
+
+}

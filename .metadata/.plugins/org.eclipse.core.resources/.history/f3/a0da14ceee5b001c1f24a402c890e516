@@ -1,0 +1,5 @@
+package com.rentacar.api.user.business.abstracts;
+
+public class ApplicationUserService {
+
+}

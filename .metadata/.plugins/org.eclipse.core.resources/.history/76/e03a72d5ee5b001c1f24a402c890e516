@@ -1,0 +1,12 @@
+package com.rentacar.api.user.business.abstracts;
+
+import com.rentacar.api.user.core.utilities.result.Result;
+
+public interface AuthenticationService {
+	
+	Result individualCustomerRegister(CreateIndividualCustomerRegisterRequest registerIndividualCustomerRequest);
+
+	Result corporateCustomerRegister(CreateCorporateCustomerRegisterRequest registerCorporateCustomerRequest);
+
+	Result login(CreateLoginRequest createLoginRequest);
+}

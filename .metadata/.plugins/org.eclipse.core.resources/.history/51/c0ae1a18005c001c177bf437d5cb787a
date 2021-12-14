@@ -1,0 +1,29 @@
+package com.rentacar.api.user.business.requests.applicationUser;
+
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
+public class CreateIndividualCustomerRegisterRequest {
+
+	@NotNull
+	private String firstName;
+
+	@NotNull
+	private String lastName;
+
+	@NotNull
+	private String nationalIdentityNumber;;
+	
+	@Size(min=6, max=20)
+	@NotNull
+	@Email
+	private String email;
+	
+	@Size(min=6, max=20)
+	@NotNull
+	private String password;
+	
+	@NotNull
+	private String passwordConfirm;
+}

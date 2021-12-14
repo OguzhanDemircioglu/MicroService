@@ -1,0 +1,5 @@
+package com.rentacar.api.user.core.utilities.rules;
+
+public class BusinessRules {
+
+}

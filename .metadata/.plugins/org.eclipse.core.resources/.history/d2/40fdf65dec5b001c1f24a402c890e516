@@ -1,0 +1,5 @@
+package com.rentacar.api.user.DataAccess;
+
+public class ApplicationUserDao {
+
+}

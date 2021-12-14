@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnoreProperties"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.entities.ApplicationUser"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.abstracts.UserService"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.abstracts.IndividualCustomerService"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.abstracts.CorporateCustomerService"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.requests.applicationUser.CreateCorporateCustomerRegisterRequest"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.requests.applicationUser.CreateLoginRequest"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.core.utilities.mapping.ModelMapperService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.requests.applicationUser.CreateIndividualCustomerRegisterRequest"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.core.utilities.result.Result"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.core.utilities.rules.BusinessRules"/>
+    <fullyQualifiedTypeName name="com.rentacar.api.user.business.abstracts.AuthenticationService"/>
+</qualifiedTypeNameHistroy>
